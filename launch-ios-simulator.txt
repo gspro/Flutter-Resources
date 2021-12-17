@@ -2,3 +2,6 @@ From a terminal:
 
 $ xcrun simctl list
 $ open -a Simulator --args -CurrentDeviceUDID <your device UDID>
+
+or to launch the most recent used:
+open -a Simulator.app
