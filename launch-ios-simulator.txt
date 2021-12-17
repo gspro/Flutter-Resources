@@ -1,0 +1,4 @@
+From a terminal:
+
+$ xcrun simctl list
+$ open -a Simulator --args -CurrentDeviceUDID <your device UDID>
